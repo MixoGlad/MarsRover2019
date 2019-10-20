@@ -1,0 +1,12 @@
+ A squad of rovers were to Mars to explore the planet 
+ the shows how one could navigate around the planet.
+ 
+ The was written in java Language
+ The app allows a user to enter strings in order to navigate the rovers
+ The user may enter navigate rovers by simply controlling the using compass points
+ 
+ platforms
+ The app supports any OS;
+ 
+ 
+ 
